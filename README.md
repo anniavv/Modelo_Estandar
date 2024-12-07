@@ -13,8 +13,11 @@
 La estructura de este paquete es la siguiente
 
 Modelo_Estandar/
+
 ├── Modelo_Estandar/   
+
 │   ├── __init__.py
+
 │   ├── ejemplos_particulas.py
 
 │   ├── Particle.py
