@@ -9,7 +9,7 @@
 
 ## **Estructura** 
 La estructura de este paquete es la siguiente
-Modelo_Estandar/
+```Modelo_Estandar/
 ├── Modelo_Estandar/        
 │   ├── __init__.py
 │   ├── ejemplos_particulas.py
@@ -22,7 +22,7 @@ Modelo_Estandar/
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
-└── setup.py
+└── setup.py```
 
 ## **Requisitos**
 Antes de usar este paquete, asegúrate de instalar las siguientes dependencias:
