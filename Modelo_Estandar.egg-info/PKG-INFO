@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Modelo_Estandar
+Version: 0.1.0
+Summary: Un paquete sobre partículas del modelo estándar interfaz gráfica usando PyQt5.
+Home-page: https://github.com/tuusuario/First_Package
+Author: Annia Verdín
+Author-email: annia_verdin@ciencias.unam.mx
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: PyQt5
