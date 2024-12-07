@@ -6,6 +6,7 @@
 - **Interfaz gráfica**: Usa PyQt5 para proporcionar una experiencia interactiva de visualización y consulta.
 - **Partículas predefinidas**: Contiene partículas fundamentales como protones, electrones, neutrinos, fotones y más, con datos detallados.
 - **Diseño modular**: Código organizado en módulos para facilitar su mantenimiento y ampliación.
+**Documentación**: https://app.gitbook.com/invite/BanlXQNZOJXl1E3JdESE/m6AgqbZXOHA3nrgrnMOe
 
 ## **Estructura** 
 La estructura de este paquete es la siguiente
